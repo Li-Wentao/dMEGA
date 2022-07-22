@@ -15,4 +15,4 @@ model = dMEGA(X, y).fit()
 print(model.df)
 
 # Mixed-effects coefficients
-print(test.mu)
+print(model.mu)
